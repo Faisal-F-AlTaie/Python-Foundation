@@ -1,2 +1,11 @@
-# Python-Foundation
-This is the Start of my Python Journey. All Projects Here are Easy-Medium in Difficulty and Revolve around familiarizing myself with the main concepts and syntax of Python
+Python-Foundation: This is the Start of my Python Journey. All Projects Here are Easy-Medium in Difficulty and Revolve around familiarizing myself with the main concepts and syntax of Python
+
+Project 1: Rock Paper Scissors:
+This Python script is a simple "Rock, Paper, Scissors" game where the player inputs their choice, and the computer randomly selects one as well. 
+The game then compares the choices using the `check_win()` function to determine if the player wins, loses, or ties based on the standard rules 
+(rock beats scissors, paper beats rock, and scissors beat paper). Finally, it prints the result of the match.
+
+Project 2: Black jack; 
+Blackjack is a card game where the goal is to have a hand value closer to 21 than the dealer's without exceeding 21. Number cards hold their face value, face cards are worth 10, and Aces can be 1 or 11. Players are dealt two cards and can choose to "hit" for another card or "stand." 
+The dealer must hit until their hand totals at least 17. A hand value over 21 is a bust, and a starting hand with 21 is called blackjack. The Python code for the game simulates this by creating a deck of cards and dealing them to the player and dealer. 
+The `Hand` class calculates the hand value and determines whether the player or dealer wins, ties, or busts. The player can continue to hit or stand while the dealer plays according to the game rules, and the game loop checks for the final winner based on the hand values.
