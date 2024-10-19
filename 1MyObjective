@@ -5,12 +5,14 @@ This Python script is a simple "Rock, Paper, Scissors" game where the player inp
 The game then compares the choices using the `check_win()` function to determine if the player wins, loses, or ties based on the standard rules 
 (rock beats scissors, paper beats rock, and scissors beat paper). Finally, it prints the result of the match.
 
-Project 2: Black jack; 
+Project #2: Choose Your Adventure Mini Game;
+This Python script is a simple text-based "Choose Your Own Adventure" (CYOA) game, where the player makes choices that affect the outcome of the story. The game begins by asking the player's name and age, only allowing those who are 18 or older to play. 
+Players start with 10 health points, and as the game progresses, they are presented with a series of choices, such as going left or right, swimming across a lake or going around it, and choosing between visiting a house or a river. Depending on their 
+choices, the player may lose health or survive and win the game. The goal is to make the right decisions to keep health points above zero and ultimately "win" by surviving through the scenarios presented.
+
+Project 3: Black jack; 
 Blackjack is a card game where the goal is to have a hand value closer to 21 than the dealer's without exceeding 21. Number cards hold their face value, face cards are worth 10, and Aces can be 1 or 11. Players are dealt two cards and can choose to "hit" for another card or "stand." 
 The dealer must hit until their hand totals at least 17. A hand value over 21 is a bust, and a starting hand with 21 is called blackjack. The Python code for the game simulates this by creating a deck of cards and dealing them to the player and dealer. 
 The `Hand` class calculates the hand value and determines whether the player or dealer wins, ties, or busts. The player can continue to hit or stand while the dealer plays according to the game rules, and the game loop checks for the final winner based on the hand values.
 
-Project #3: Choose Your Adventure Mini Game;
-This Python script is a simple text-based "Choose Your Own Adventure" (CYOA) game, where the player makes choices that affect the outcome of the story. The game begins by asking the player's name and age, only allowing those who are 18 or older to play. 
-Players start with 10 health points, and as the game progresses, they are presented with a series of choices, such as going left or right, swimming across a lake or going around it, and choosing between visiting a house or a river. Depending on their 
-choices, the player may lose health or survive and win the game. The goal is to make the right decisions to keep health points above zero and ultimately "win" by surviving through the scenarios presented.
+
