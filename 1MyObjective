@@ -15,4 +15,6 @@ Blackjack is a card game where the goal is to have a hand value closer to 21 tha
 The dealer must hit until their hand totals at least 17. A hand value over 21 is a bust, and a starting hand with 21 is called blackjack. The Python code for the game simulates this by creating a deck of cards and dealing them to the player and dealer. 
 The `Hand` class calculates the hand value and determines whether the player or dealer wins, ties, or busts. The player can continue to hit or stand while the dealer plays according to the game rules, and the game loop checks for the final winner based on the hand values.
 
-
+Project 4: Quiz Game;
+Just A simple quiz game on simple computer terms/acronyms where the user hs to answer questions. I was just trying to get more comfterable with conditional statements such as if or else and, games like these are quick to make and are usful, as I want to fully complete one project
+evrey single day to stay conistant with my development as a programmer!
