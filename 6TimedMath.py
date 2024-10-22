@@ -1,9 +1,9 @@
 import random
 import time
 
-OPER = ["+", "-", "*"]
-MIN_OPER = 3
-MAX_OPER = 12
+OPER = ["+", "-", "*", "/"]
+MIN_OPER = -15
+MAX_OPER = 15
 total_problems = 10
 # ranident is a method that will return a int from the specified range
 def generate_problem():
