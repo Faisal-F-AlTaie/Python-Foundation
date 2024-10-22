@@ -18,3 +18,7 @@ The `Hand` class calculates the hand value and determines whether the player or 
 Project 4: Quiz Game;
 Just A simple quiz game on simple computer terms/acronyms where the user hs to answer questions. I was just trying to get more comfterable with conditional statements such as if or else and, games like these are quick to make and are usful, as I want to fully complete one project
 evrey single day to stay conistant with my development as a programmer!
+
+Project 5:
+The code is a timed math challenge program where the user is presented with a series of arithmetic problems. It generates random problems using addition, subtraction, or multiplication with two random operands within a defined range. The user is given a total of 10 problems to solve. 
+The program records the time taken to complete all problems and counts the number of incorrect attempts. At the end, it displays the total time taken to complete the challenge. This script provides a simple way to test and improve basic arithmetic skills under a timed condition.
