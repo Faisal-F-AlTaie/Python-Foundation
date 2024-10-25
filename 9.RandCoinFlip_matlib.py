@@ -1,6 +1,7 @@
 import random
 import matplotlib.pyplot as plt  # Corrected import statement
 
+# had to move this outside the function to make it accisable to the new function 
 options = ["heads", "tails"]
 
 # Function for randomly generating heads or tails upon coin flip
@@ -24,10 +25,10 @@ def flip_count(num_flips):
 num_flips = int(input("Enter the number of flips you want to do: "))
 heads, tails = flip_count(num_flips)
 
-# Print the results
+# Print the results in a nice statement 
 print("Heads: " + str(heads) + " Tails: " + str(tails))
 
-# Plotting Data
+# Plotting the Data by setting up graph characteristics 
 labels = ["Heads", "Tails"]
 counts = [heads, tails]
 
