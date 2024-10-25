@@ -39,3 +39,9 @@ projects on this list will follow the same semi-orignal theme, applying my conce
 
 Project 7: Random Coin Flipper;
 Simple Project that took less than 5 minutes to complete. Uploaded it to give myself a reason to stay consistant, and to keep pushimg towards bigger and better things!
+
+
+Project 8: Random Coin Flipper Plotting;
+I was not quite satasfied with the base "easiness" that I uploaded earlier. It was sad to see me go from a project like K-12 where I had to follow the usual proceure of programming: Research, Code, Debug, Edits, Repeat; to go to a simple one function program. I than decided to utalize my skills
+and learned the libary of matplotlib which is straight forward to understand and execute as It's the computer doing the more tedious and strainful work of graphing the results. I applied this libary to my coin flipper project which allows a user to select how many flips they want to generate and than
+see the probality displayed on a simple bar graph.
