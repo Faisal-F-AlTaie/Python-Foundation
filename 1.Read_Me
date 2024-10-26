@@ -97,3 +97,10 @@ Project 8: Random Coin Flipper Plotting;
 I was not quite satasfied with the base "easiness" that I uploaded earlier. It was sad to see me go from a project like K-12 where I had to follow the usual proceure of programming: Research, Code, Debug, Edits, 
 Repeat; to go to a simple one function program. I than decided to utalize my skills and learned the libary of matplotlib which is straight forward to understand and execute as It's the computer doing the more tedious 
 and strainful work of graphing the results. I applied this libary to my coin flipper project which allows a user to select how many flips they want to generate and than see the probality displayed on a simple bar graph.
+
+
+Project 9: In Python Terminal Calculator;
+My friend challenged me to race him in making a calculator. While he focused on speed, I prioritized efficiency and simplicity in my design. Instead of using a series of if-else statements to handle different operations, 
+I opted for a more streamlined approach. By leveraging Python’s built-in eval() function, my calculator dynamically evaluates the user's input as an arithmetic expression. This method allows the program to interpret and 
+execute basic arithmetic operations (+, -, *, /) with minimal code. Additionally, by validating the operator with a simple conditional check, I ensured that the calculator would only evaluate valid operations, preventing 
+unnecessary complexity. 
