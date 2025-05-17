@@ -4,7 +4,7 @@
 # 2021-2022 semster 1
 # October 14th, 2021
 
-# listing inputs for project: making sure all vaue are intgers.
+# Listing inputs for project: making sure all values are integers.
 movie = input("Movie ?:")
 adults = int(input("Adults ?:"))
 children = int(input("Children ?:"))
@@ -18,7 +18,7 @@ seniors_ticket = adults_ticket * 0.75
 # listing formula for calculations
 total2  = (adults_ticket * adults) + (childrens_ticket * children) + (seniors_ticket * seniors)
 
-# formating the values to 2 decimal places
+# formatting the values to 2 decimal places
 total = format(total2, '.2f')
 
 # using booleans to balance dollar signing with changing decimals
@@ -34,7 +34,7 @@ total = format(float(total), '.2f')
 print(("-")* 30)
 print(f'| {title.center(26)} |')
 
-# printing the box side and rjusting and putting values withen it
+# printing the box side and rjusting and putting values within it
 print(f'| Adults: {str(adults).rjust(18)} ' + "|")
 print(f'| Children: {str(children).rjust(16)} ' + "|")
 print(f'| Seniors: {str(seniors).rjust(17)} ' + "|")
